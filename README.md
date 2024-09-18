@@ -1,6 +1,6 @@
 <h1>FrontEnd developer</h1>
 <hr>
-<h5>Cultivating focus and committing to consistent practice are essential for growth, success, and fulfillment in any endeavor.</h5>
+<h4>Cultivating focus and committing to consistent practice are essential for growth, success, and fulfillment in any endeavor.</h4>
 <hr>
 
 🎪 FrontEnd: HTML , CSS , JavaScript , JQuery ,Reactjs <br>
