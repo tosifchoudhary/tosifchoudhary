@@ -3,9 +3,9 @@
 <p>Cultivating focus and committing to consistent practice are essential for growth, success, and fulfillment in any endeavor.</p>
 <hr>
 
-🎪 FrontEnd: HTML , CSS , JavaScript , JQuery ,Reactjs
-🌱 Libraries: Bootstrap , TailwindCss
-💬 DataBase: Mysql
+🎪 FrontEnd: HTML , CSS , JavaScript , JQuery ,Reactjs <br>
+🌱 Libraries: Bootstrap , TailwindCss <br>
+💬 DataBase: Mysql <br>
 👨‍💻  Backend: Python , Django
 
 <hr>
