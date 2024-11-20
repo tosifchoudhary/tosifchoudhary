@@ -4,15 +4,18 @@
 <hr>
 
 🎪 FrontEnd: HTML , CSS , JavaScript , JQuery ,Reactjs <br>
-🌱 Libraries: Bootstrap , TailwindCss <br>
-💬 DataBase: Mysql <br>
-👨‍💻  Backend: Python , Django
+🌱 Libraries: Bootstrap , TailwindCss ,Expresjs<br>
+💬 DataBase: Mysql ,MongoDB <br>
+👨‍💻 Backend: Python , Django , Php , Nodejs <br>
+🌱 Other skill: Wordpress,Seo
+
+
 
 <hr>
 
 - 👋 Hi, I’m tosifchoudhary
-- 👀 I’m interested to become a fullstack
-- 🌱 I’m currently learning Django
+- 👀 I’m interested to become a fullstack with Wordpress and Seo
+- 🌱 I’m currently learning Django,Php ,Nodejs
 - 📫 How to reach me https://tosifchoudharyr.netlify.app/
 
 
