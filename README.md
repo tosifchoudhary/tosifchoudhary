@@ -1,3 +1,5 @@
+![github banner](https://github.com/user-attachments/assets/d58e75a3-da17-4849-bf06-a9145bc7fbe8)
+
 <h1>FrontEnd developer</h1>
 <hr>
 <h4>Cultivating focus and committing to consistent practice are essential for growth, success, and fulfillment in any endeavor.</h4>
